@@ -1,0 +1,40 @@
+h1{
+	color:Cyan;
+
+}
+h2{
+	font-size: 17px;
+	color: Black;
+}
+body{
+   background: Grey;
+   text-align: right;
+}
+.box1{
+	float: left;
+    width: 650px;
+	height: 550px;
+	background: Grey;
+	border: 3px solid black;
+	top: 71%;
+	left: 25%;
+	text-align: left;
+	position:absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+   
+}
+.box2{
+	float: right;
+    width: 620px;
+	height: 170px;
+	background: Grey;
+	border: 3px solid black;
+	top: 41%;
+	left: 76%;
+	text-align: left;
+	position:absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+   
+}

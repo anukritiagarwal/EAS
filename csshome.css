@@ -1,0 +1,29 @@
+h1{
+	color:Cyan;
+
+}
+body{
+   background: Grey;
+   text-align: right;
+}
+h2{
+	color:lawngreen;
+}
+h3{
+	color:lawngreen;
+}
+.box{
+	width: 280px;
+	height: 440px;
+	background: #222;
+	color: #fff;
+	top: 65%;
+	left: 80%;
+	text-align: left;
+	position:absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	
+}
+
+    

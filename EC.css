@@ -1,0 +1,45 @@
+h1{
+	color:Cyan;
+
+}
+body{
+   background: Grey;
+   text-align: right;
+}
+h4{
+	text-align: left;
+}
+
+.first {
+    margin:0;
+    padding:0;
+    padding-right: 1060px;
+    
+}
+.second {
+    margin:0;
+    padding:0;
+    padding-right: 1050px;
+    
+}
+.third {
+    margin:0;
+    padding:0;
+    padding-right: 1118px;
+    
+}
+.fourth {
+    margin:0;
+    padding:0;
+    padding-right: 1118px;
+    
+}
+.fifth {
+    margin:0;
+    padding:0;
+    padding-left: 167px;
+}
+
+
+
+

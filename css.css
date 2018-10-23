@@ -1,0 +1,24 @@
+h1{
+	color:Green;
+	font-family:fantasy;
+}
+body{
+	text-align:Center;
+	color:White;
+	background:Grey;
+	padding:5px;
+	font-family:Candara;
+	font-size:18px;
+	margin-top:90px;
+}
+.loginbox{
+	width: 420px;
+	height: 260px;
+	background: #000;
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position:absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+}
